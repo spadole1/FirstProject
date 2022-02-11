@@ -7,6 +7,9 @@ public class Demogit {
 
 		System.out.println("GitHub program first");
 		System.out.println("Hello");
+		System.out.println("GitHub program second ");
+		System.out.println("Hello how are you?");
+		
 	}
 
 }
